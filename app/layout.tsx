@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: "Nexlo - Loyalty Card Platform for Shops",
   description:
     "Empower your shop with Nexlo's digital loyalty card system. Integrate with Google/Apple Wallet, manage reviews, and control your social media presence—all in one powerful platform.",
-  generator: "v0.app",
+  generator: "nexlo.info",
   icons: {
     icon: [
       {
